@@ -1,3 +1,11 @@
 .container {
   max-width: 960px;
 }
+
+#terms{
+  color: red;
+}
+
+#btn-link.error{
+  color: red;
+}
